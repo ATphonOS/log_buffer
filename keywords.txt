@@ -1,0 +1,25 @@
+==================================
+CLASS
+==================================
+LogBuffer	KEYWORD1
+
+==================================
+FUNCTIONS
+==================================
+addMessage	KEYWORD2
+getMessage	KEYWORD2
+countMessages	KEYWORD2
+
+==================================
+CONSTANTS
+==================================
+LOG_BUFFER_H	LITERAL1
+ERROR	LITERAL1
+WARNING	LITERAL1
+INFO	LITERAL1
+MESSAGE_TYPE_COUNT	LITERAL1
+
+==================================
+DATA TYPES
+==================================
+LogMessageType	KEYWORD1
